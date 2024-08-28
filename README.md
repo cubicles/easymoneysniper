@@ -1,0 +1,2 @@
+# easymoneysniper
+Time series forecasting
